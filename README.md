@@ -20,7 +20,7 @@ This screenshot shows Active Directory Users and Computers with the appropriate 
 
 ![Step 2](AD2.png)
 
-This screen displays the New Object – User wizard where the user’s name and logon credentials are configured.
+This screen displays the New Object –  Where the user’s name and logon credentials are configured.
 
 ---
 
