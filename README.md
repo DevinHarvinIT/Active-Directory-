@@ -11,7 +11,7 @@ Hands-on Active Directory lab focused on basic user account creation and verific
 
 ## Step 1: Initiating User Creation
 
-images/create-user/AD1.png
+(images/create-user/AD1.png)
 
 This screenshot shows Active Directory Users and Computers with the appropriate Organizational Unit selected and the context menu opened to create a new user.
 
