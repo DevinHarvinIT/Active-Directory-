@@ -1,6 +1,6 @@
 # Active Directory
 Hands on Active Directory labs focused on user and account management
-# Active Directory – Create User Lab
+# Active Directory Create User Lab
 
 ![Active Directory Lab Header](AD%20Lab%20thumbnail.webp)
 
