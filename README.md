@@ -2,7 +2,7 @@
 Hands on Active Directory labs focused on user and account management
 # Active Directory Create User Lab
 
-create-user/AD Lab thumbnail.webp
+[create-user/AD Lab thumbnail.webp](https://github.com/DevinHarvinIT/Active-Directory-/blob/9c30dfa49d26d5af454cf2f8d06c22429e5428fa/create-user/AD%20Lab%20thumbnail.webp)
 
 
 Hands-on Active Directory lab focused on basic user account creation and verification.
