@@ -1,4 +1,4 @@
-# Active-Directory-
+# Active Directory
 Hands on Active Directory labs focused on user and account management
 # Active Directory – Create User Lab
 
