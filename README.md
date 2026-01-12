@@ -19,7 +19,7 @@ This screenshot shows Active Directory Users and Computers with the appropriate 
 
 ## Step 2: Entering User Identity Information
 
-image
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-/blob/740a609c780b8bed09911cb99c16447db11c7d72/create-user/AD2.png)
 
 This screen displays the New Object –  Where the user’s name and logon credentials are configured.
 
@@ -27,7 +27,7 @@ This screen displays the New Object –  Where the user’s name and logon crede
 
 ## Step 3: Setting the Initial Password
 
-image
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-/blob/740a609c780b8bed09911cb99c16447db11c7d72/create-user/AD3.png)
 
 This step shows the password configuration screen, including enabling the option that requires the user to change their password at next logon.
 
@@ -35,7 +35,7 @@ This step shows the password configuration screen, including enabling the option
 
 ## Step 4: Confirming User Creation
 
-image
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-/blob/740a609c780b8bed09911cb99c16447db11c7d72/create-user/AD4.png)
 
 This confirmation screen summarizes the user account details before finalizing the creation process.
 
@@ -43,6 +43,6 @@ This confirmation screen summarizes the user account details before finalizing t
 
 ## Step 5: Verifying User Group Membership
 
-image
+![image alt](https://github.com/DevinHarvinIT/Active-Directory-/blob/740a609c780b8bed09911cb99c16447db11c7d72/create-user/AD5.png)
 
 This screenshot shows the user’s Properties window, confirming successful account creation and default membership in the Domain Users group.
