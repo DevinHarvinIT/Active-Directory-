@@ -2,7 +2,7 @@
 Hands on Active Directory labs focused on user and account management
 # Active Directory Create User Lab
 
-![Active Directory Create User Lab](images/create-user/AD%20Lab%20thumbnail.webp)
+create-user/AD Lab thumbnail.webp
 
 
 Hands-on Active Directory lab focused on basic user account creation and verification.
@@ -11,7 +11,7 @@ Hands-on Active Directory lab focused on basic user account creation and verific
 
 ## Step 1: Initiating User Creation
 
-(images/create-user/AD1.png)
+images/create-user/AD1.png
 
 This screenshot shows Active Directory Users and Computers with the appropriate Organizational Unit selected and the context menu opened to create a new user.
 
